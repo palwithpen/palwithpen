@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @palwithpen
 - 👀 I’m interested in web development and creating scalable APIs
-- 🌱 I’m currently learning node
+- 🌱 I’m currently learning GoLang
 - 💞️ I’m looking to collaborate on web development projects
 - 📫 How to reach me @palwithpen.js on insta 
 
